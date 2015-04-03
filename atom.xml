@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://geyang.me/"/>
-  <updated>2015-04-02T08:29:00.000Z</updated>
+  <updated>2015-04-03T04:23:01.871Z</updated>
   <id>http://geyang.me/</id>
   
   <author>
@@ -19,7 +19,7 @@
     <link href="http://geyang.me/2015/04/02/newpost/"/>
     <id>http://geyang.me/2015/04/02/newpost/</id>
     <published>2015-04-02T07:59:39.000Z</published>
-    <updated>2015-04-02T08:29:00.000Z</updated>
+    <updated>2015-04-03T04:23:01.871Z</updated>
     <content type="html"><![CDATA[<p>Hello, Tigergirl! Hello, Kiwi! We have set out.</p>
 ]]></content>
     <summary type="html">
@@ -27,9 +27,7 @@
     
     </summary>
     
-      <category term="life" scheme="http://geyang.me/tags/life/"/>
-    
-      <category term="maniu" scheme="http://geyang.me/tags/maniu/"/>
+      <category term="纪念" scheme="http://geyang.me/tags/%E7%BA%AA%E5%BF%B5/"/>
     
       <category term="生活" scheme="http://geyang.me/categories/%E7%94%9F%E6%B4%BB/"/>
     
