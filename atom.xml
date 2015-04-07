@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title><![CDATA[慢牛]]></title>
-  
+  <title><![CDATA[呆牛]]></title>
+  <subtitle><![CDATA[不想当码农的压力容器工程师不是好爸爸]]></subtitle>
   <link href="/atom.xml" rel="self"/>
-  <link href="http://geyang.me/"/>
-  <updated>2015-04-03T04:28:52.000Z</updated>
-  <id>http://geyang.me/</id>
+  <link href="http://dainiu.me/"/>
+  <updated>2015-04-03T04:28:52.298Z</updated>
+  <id>http://dainiu.me/</id>
   
   <author>
     <name><![CDATA[GeYang]]></name>
@@ -16,10 +16,10 @@
   
   <entry>
     <title><![CDATA[慢牛开博]]></title>
-    <link href="http://geyang.me/2015/04/02/first_blog/"/>
-    <id>http://geyang.me/2015/04/02/first_blog/</id>
+    <link href="http://dainiu.me/2015/04/02/first_blog/"/>
+    <id>http://dainiu.me/2015/04/02/first_blog/</id>
     <published>2015-04-02T07:59:39.000Z</published>
-    <updated>2015-04-03T04:28:52.000Z</updated>
+    <updated>2015-04-03T04:28:52.298Z</updated>
     <content type="html"><![CDATA[<p>Hello, Tigergirl! Hello, Kiwi! 我们出发了!<br>经过一周的</p>
 ]]></content>
     <summary type="html">
@@ -27,9 +27,9 @@
     
     </summary>
     
-      <category term="纪念" scheme="http://geyang.me/tags/%E7%BA%AA%E5%BF%B5/"/>
+      <category term="纪念" scheme="http://dainiu.me/tags/%E7%BA%AA%E5%BF%B5/"/>
     
-      <category term="生活" scheme="http://geyang.me/categories/%E7%94%9F%E6%B4%BB/"/>
+      <category term="生活" scheme="http://dainiu.me/categories/%E7%94%9F%E6%B4%BB/"/>
     
   </entry>
   
