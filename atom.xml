@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title><![CDATA[呆牛]]></title>
-  <subtitle><![CDATA[不想当码农的压力容器工程师不是好爸爸]]></subtitle>
+  <subtitle><![CDATA[不想当码农的压力容器工程师不是好爸爸!]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://dainiu.me/"/>
   <updated>2015-04-03T04:28:52.298Z</updated>
